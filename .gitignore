@@ -1,0 +1,14 @@
+# LaTeX 
+_minted-rapport/
+*.aux 
+*.fdb_latexmk 
+*.log
+*.fls
+*.pyg 
+*.synctex.gz
+*.listing
+*.out
+
+# Flask App 
+__pycache__/
+venv/
